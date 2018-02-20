@@ -1,0 +1,9 @@
+{
+  "name": "everesthouse",
+  "private": true,
+  "dependencies": {
+    "jquery": "2.2.4",
+    "photoswipe": "4.1.2 " 
+  }
+}
+ 
