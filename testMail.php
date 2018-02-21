@@ -1,6 +1,6 @@
 ﻿﻿<?php 
 
-    $to = "ivan.latak@gmail.com"; // this is your Email address
+    $to = "info@gmail.com"; // this is your Email address
     $from = "test@gmail.com";
     $first_name = "testFirstName";
     $last_name = "TestLastName";
